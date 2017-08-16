@@ -9,19 +9,19 @@ Pytorch with cpu Version
 
 ## Usage
 
-i-CPCL.py The improved CPCL algorithm
+mixGau-simGAN.py    generated mixture Gaussian data from mixture Gaussian Distribution using simGAN [1]
 
-l1-CPCL.py CPCL algorithm with dynamic learning rate
+mixGau_GAN.py    generated mixture Gaussian data from mixture Gaussian Distribution using GAN [2]
 
-s-CPCL.py CPCL algorithm with signed network approach
+mixGau_cycleGAN.py    generated mixture Gaussian data from mixture Gaussian Distribution using cycleGAN [3]
 
-CPCL.py Original CPCL algorithm
+uniMix_GAN.py     generated mixture Gaussian data from uniform Distribution using GAN
 
-show_***.py Show the animation of the seed points
+uniNor_cycleGAN.py     generated mixture Gaussian data from uniform Distribution using GAN
 
 ```sh
-python i-CPCL.py
-python show_iCPCL.py
+python uniMix_GAN.py
+
 ```
 
 ## Experiment Result
