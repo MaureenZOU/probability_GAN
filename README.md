@@ -32,7 +32,7 @@ GAN uniform 2 Gaussian: https://youtu.be/Sq20c6R_XFw
 
 cycleGAN mixGaussian 2 mixGaussian: https://youtu.be/wvZUGTKfoLc
 
-Example output of a single frame
+`Example output of a single frame`
 
 ![alt tag](https://raw.githubusercontent.com/MaureenZOU/probability_GAN/master/GAN.png)
 
