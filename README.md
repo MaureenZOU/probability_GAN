@@ -27,7 +27,9 @@ python uniMix_GAN.py
 ## Experiment Result
 
 GAN mixGaussian 2 mixGaussian: https://youtu.be/2pEcTiFSMLw
+
 GAN uniform 2 Gaussian: https://youtu.be/Sq20c6R_XFw
+
 cycleGAN mixGaussian 2 mixGaussian: https://youtu.be/wvZUGTKfoLc
 
 Example output of a single frame
