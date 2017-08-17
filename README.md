@@ -26,23 +26,14 @@ python uniMix_GAN.py
 
 ## Experiment Result
 
-Copare of converging speed of S dataset.
+GAN mixGaussian 2 mixGaussian: https://youtu.be/2pEcTiFSMLw
+GAN uniform 2 Gaussian: https://youtu.be/Sq20c6R_XFw
+cycleGAN mixGaussian 2 mixGaussian: https://youtu.be/wvZUGTKfoLc
 
-![alt tag](https://raw.githubusercontent.com/MaureenZOU/i-CPCL-Algorithm/master/sample.png)
+Example output of a single frame
 
+![alt tag](https://raw.githubusercontent.com/MaureenZOU/probability_GAN/master/GAN.png)
 
-
-CPU
-
-![alt tag](https://raw.githubusercontent.com/MaureenZOU/i-CPCL-Algorithm/master/cpu.png)
-
-Epoch
-
-![alt tag](https://raw.githubusercontent.com/MaureenZOU/i-CPCL-Algorithm/master/epoch.png)
-
-Comparison of i-CPCL, l-CPCL and s-CPCL algorithm with 10 Gaussian clusters.
-
-![alt tag](https://raw.githubusercontent.com/MaureenZOU/i-CPCL-Algorithm/master/compare.png)
 
 ## Release History
 
